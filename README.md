@@ -8,11 +8,7 @@ https://github.com/Sub-Way/ComputerGraphicsWeek4
 
 https://github.com/Sub-Way/ComputerGraphicsWeek5
 
-https://github.com/Sub-Way/ComputerGraphicsWeek6
-
 https://github.com/Sub-Way/ComputerGraphicsWeek7
-
-https://github.com/Sub-Way/ComputerGraphicsWeek8
 
 https://github.com/Sub-Way/ComputerGraphicsWeek9
 
